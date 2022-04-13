@@ -6,9 +6,8 @@
 # Appearance
 
 appearance:
-  day_night = true
   theme_day: minimal
-  theme_night: dark
+  theme_night: 
   font: native
   font_size: L
 
