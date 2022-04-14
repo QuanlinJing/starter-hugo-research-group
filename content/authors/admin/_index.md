@@ -38,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'kemiding225@gmail.com'
+    link: 'mailto:kemiding225@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
