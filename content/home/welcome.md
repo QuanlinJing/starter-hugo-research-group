@@ -17,7 +17,4 @@ hero_media: welcome.jpg
 #   css_style:
 #   css_class:
 ---
-
-<br>
-
 The **Lemons Lab** is a newly established laboratory of Southern University of Science and Technology.
