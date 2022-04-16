@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: kemiding225@gmail.com
+  email: dingkm@sustech.edu.cn
   # phone: 888 888 88 88
   address:
     street: No. 1088, Xueyuan Avenue, Nanshan District
