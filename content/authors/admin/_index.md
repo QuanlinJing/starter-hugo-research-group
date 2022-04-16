@@ -11,7 +11,7 @@ role: Assistant Professor of MEE
 # Organizations/Affiliations
 organizations:
   - name: Southern University of Science and Technology
-    url: 'https://www.sustech.edu.cn/'
+    url: 'https://www.sustech.edu.cn/zh/faculties/kemiding.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Cyber-physical Systems, State estimation and Game theory.
@@ -38,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:kemiding225@gmail.com'
+    link: 'mailto:dingkm@sustech.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen

@@ -29,8 +29,8 @@ content:
     longitude: '114.0579'
   directions: Southern University of Science and Technology
   office_hours:
-    - 'Monday 10:00 to 23:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday 10:00 to 17:00'
+  # appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
