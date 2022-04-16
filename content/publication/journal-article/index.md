@@ -25,7 +25,6 @@ publication_short: ''
 abstract: This paper considers a cyber-physical system (CPS) under denial-of-service (DoS) attacks. The
 measurements of a sensor are transmitted to a remote estimator over a multi-channel network, which
 may be congested by a malicious attacker.
-
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
